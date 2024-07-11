@@ -1,0 +1,21 @@
+<svg width="740" height="501" viewBox="0 0 740 501" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_40_2084)">
+<circle cx="1072.75" cy="299.753" r="410.5" transform="rotate(30 1072.75 299.753)" fill="#AD00FF"/>
+<circle cx="134.753" cy="224.753" r="410.5" transform="rotate(30 134.753 224.753)" fill="#00D1FF"/>
+<circle cx="471.753" cy="736.753" r="410.5" transform="rotate(30 471.753 736.753)" fill="#439CE3"/>
+<g filter="url(#filter0_b_40_2084)">
+<rect width="1600" height="1161" rx="20" fill="black" fill-opacity="0.1"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_40_2084" x="-800" y="-800" width="3200" height="2761" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="400"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_40_2084"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_40_2084" result="shape"/>
+</filter>
+<clipPath id="clip0_40_2084">
+<path d="M0 51C0 22.8335 22.8335 0 51 0H684C714.928 0 740 25.0721 740 56V253C740 389.967 628.967 501 492 501H51C22.8335 501 0 478.167 0 450V51Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

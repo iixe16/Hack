@@ -1,0 +1,85 @@
+/* Login.css */
+
+.form-container {
+    position: absolute;
+    bottom: 90px;
+    width: 100%;
+    text-align: right;
+    margin-top: -450px;
+  }
+  
+  .form-container form {
+    display: inline-block;
+    text-align: right;
+    margin-right: 26px;
+  }
+  
+  .form-container p {
+    text-align: center;
+    color: #5366f4;
+    font-size: 55px;
+    font-family: 'Alatsi';
+  
+  }
+  
+  .form-container h3 {
+    color: #0e7ea3;
+    font-size: 13px;
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    letter-spacing: 0.30;
+    margin-bottom: 20px;
+    margin-right: 20px;
+  
+  }
+  
+  .form-container input[type='email'],
+  .form-container input[type='password'] {
+    width: 360px;
+    height: 48px;
+    padding: 8px 16px;
+    border-radius: 6px;
+    background: #E5E5E5;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+  }
+  
+  .form-container div.forgot-password {
+    color: #4fb3f5;
+    font-size: 12px;
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    line-height: 2;
+    letter-spacing: 0.30;
+    word-wrap: break-word;
+    text-align: right;
+  }
+  
+  .form-container button {
+    width: 360px;
+    height: 48px;
+    padding: 10px 24px;
+    background: #4a77ae;
+    border-radius: 6px;
+    color: rgb(242, 232, 232);
+    font-size: 40px;
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.30;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  .form-container div.dont-have-account {
+    color: #000000;
+    font-size: 12px;
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    line-height: 4;
+    letter-spacing: 0.30;
+    word-wrap: break-word;
+    text-align: right;
+  }
+  
